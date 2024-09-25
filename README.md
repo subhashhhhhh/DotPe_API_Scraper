@@ -18,7 +18,7 @@ Well, fret no more! Thanks to dotpe's unwavering commitment to data security (or
 
 **Installation**
 
-1. Clone this repository: `git clone https://github.com/your-username/dotpe-restaurant-data-extractor.git`
+1. Clone this repository: `git clone https://github.com/subhashhhhhh/DotPe_API_Scraper`
 2. Install dependencies: `pip install requests`
 3. Configure the script (if you must): 
     * Set the `start_id`.
